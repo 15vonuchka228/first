@@ -1,0 +1,6 @@
+C:\Users\ОразД\source\repos\ConsoleApp1(dastan)\ConsoleApp1(dastan)\bin\Debug\ConsoleApp1(dastan).exe.config
+C:\Users\ОразД\source\repos\ConsoleApp1(dastan)\ConsoleApp1(dastan)\bin\Debug\ConsoleApp1(dastan).exe
+C:\Users\ОразД\source\repos\ConsoleApp1(dastan)\ConsoleApp1(dastan)\bin\Debug\ConsoleApp1(dastan).pdb
+C:\Users\ОразД\source\repos\ConsoleApp1(dastan)\ConsoleApp1(dastan)\obj\Debug\ConsoleApp1(dastan).csprojAssemblyReference.cache
+C:\Users\ОразД\source\repos\ConsoleApp1(dastan)\ConsoleApp1(dastan)\obj\Debug\ConsoleApp1(dastan).exe
+C:\Users\ОразД\source\repos\ConsoleApp1(dastan)\ConsoleApp1(dastan)\obj\Debug\ConsoleApp1(dastan).pdb
